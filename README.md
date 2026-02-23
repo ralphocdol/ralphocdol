@@ -2,7 +2,7 @@
 ---
 
 <a href="https://ko-fi.com/ralphocdol">
-  <img src="ko-fi.jpg"/>
+  <img src="support_me_on_kofi_red.png"/>
 </a>
 
 <!--
