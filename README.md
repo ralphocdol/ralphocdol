@@ -1,4 +1,9 @@
 ### Hi there 👋
+---
+
+<a href="https://ko-fi.com/ralphocdol">
+  <img src="ko-fi.jpg"/>
+</a>
 
 <!--
 **ralphocdol/ralphocdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
