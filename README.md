@@ -1,8 +1,7 @@
 ### Hi there 👋
----
 
 <a href="https://ko-fi.com/ralphocdol">
-  <img src="assets/support_me_on_kofi_red.png"/>
+  <img src="assets/support_me_on_kofi_red.png" width="150" />
 </a>
 
 <!--
