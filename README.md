@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://ko-fi.com/ralphoc">
-  <img src="assets/support_me_on_kofi_red.png" width="150" />
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71UPXIA)
 
 <!--
 **ralphocdol/ralphocdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
